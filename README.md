@@ -10,6 +10,7 @@ Spent way to much time digging through firmware and forums to not share this - g
 ## Some notes
 - I removed the encoder knob code from this because it was throwing compiler errors -- also mine doesn't have an encoder knob 
 - Originally written/maintained by github user chent7 <https://github.com/chent7>
+  - you can find the original via firmware on chent7's page if just need that (because you goofed and bricked your keyboard like me)
 ## Things to fix if I get to it
 - re-add encoder support 
 - add secure unlock combo, as of now VIAL_INSECURE is set to yes.
