@@ -5,6 +5,8 @@ Spent way to much time digging through firmware and forums to not share this - g
 
 ## What you get
 - fancyAlice66 firmware with support for VIAL 
+  - Flash the *_vial.hex to your board for vial support
+  - the rest of the qmk related files are here if you want to re-build or anything
 ## Some notes
 - I removed the encoder knob code from this because it was throwing compiler errors -- also mine doesn't have an encoder knob 
 - Originally written/maintained by github user chent7 <https://github.com/chent7>
