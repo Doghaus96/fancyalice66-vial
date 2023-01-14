@@ -7,6 +7,12 @@ Spent way to much time digging through firmware and forums to not share this - g
 - fancyAlice66 firmware with support for VIAL 
   - Flash the *_vial.hex to your board for vial support
   - the rest of the qmk related files are here if you want to re-build or anything
+- And im throwing in my vial key layout, 
+  - adds super to the key left of the left spacebar ( I use a mac at work so CMD is helpful to have)
+  - Rebinds caps lock to Control (HHKB style, I rebind all my caps lock keys like this now) 
+  - Caps lock is now on layer one, so MO(1)+caps gives you caps) 
+  - moved tilde key (~) to page down. I work in linux, that tilde is important. 
+  - Why am I defending my keyboard layout? whats wrong with me? 
 ## Some notes
 - I removed the encoder knob code from this because it was throwing compiler errors -- also mine doesn't have an encoder knob 
 - Originally written/maintained by github user chent7 <https://github.com/chent7>
